@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d61bfa8a-01f2-49e7-a49f-f3fe249b7a72" name="Changes" comment="" />
+    <list default="true" id="d61bfa8a-01f2-49e7-a49f-f3fe249b7a72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springpractice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/java/ru/ithub/jucr/springpractice/bean/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/java/ru/ithub/jucr/springpractice/bean/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/java/ru/ithub/jucr/springpractice/bean/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/java/ru/ithub/jucr/springpractice/bean/Message1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/java/ru/ithub/jucr/springpractice/restcontrollerservice/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/java/ru/ithub/jucr/springpractice/restcontrollerservice/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/java/ru/ithub/jucr/springpractice/restcontrollerservice/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/java/ru/ithub/jucr/springpractice/restcontrollerservice/UserServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springpractice/src/test/java/ru/ithub/jucr/springpractice/SpringpracticeApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2O8O4Yeq0KZexNwAh6JWBD2gF4Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,12 +45,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Honor\Desktop\testSpring" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringpracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springpractice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.ithub.jucr.springpractice.SpringpracticeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,7 +80,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680938553707</updated>
+      <workItem from="1680938554955" duration="398000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
